@@ -1,4 +1,4 @@
-# Developer Profile
+# Professional Profile
 
 ## Personal Information
 
