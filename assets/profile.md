@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am intrested in programming and learning new technologies. This is my first Git workshop, and I'm excited to master version control!
+I am interested in programming and learning new technologies. This is my first Git workshop, and I'm excited to master version control!
 
 ## Skills I'm Learning
 
