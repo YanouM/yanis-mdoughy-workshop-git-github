@@ -1,4 +1,4 @@
-# My Profile
+# Developer Profile
 
 ## Personal Information
 
@@ -27,4 +27,13 @@ I am interested in programming and learning new technologies. This is my first G
 ---
 
 *This profile was created as part of the Git Basics Workshop.*
+
+
+
+
+## Technical Skills
+
+- **Languages:** Python, JavaScript
+- **Tools:** Git, GitHub, VS Code
+- **Concepts:** Version control, Clean code
 
